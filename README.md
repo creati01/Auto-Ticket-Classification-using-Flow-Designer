@@ -59,11 +59,11 @@ https://github.com/user-attachments/assets/30f270fd-9658-458f-8e08-48bde0914f5c
 
 ## 🚀 Installation & Setup
 
-1. **Download Update Set:** Download `sys_remote_update_set.xml` from this repository.
+1. **Download Update Set:** Download `sys_remote_update_set(NM5).xml` from this repository.
 2. **Import XML:**
    - Log in to your ServiceNow Personal Developer Instance (PDI) as Administrator.
    - Navigate to **System Update Sets** $\rightarrow$ **Retrieved Update Sets**.
-   - Click **Import Update Set from XML** and select `sys_remote_update_set.xml`.
+   - Click **Import Update Set from XML** and select `sys_remote_update_set(NM5).xml`.
 3. **Preview & Commit:**
    - Open **Project Update Set**.
    - Click **Preview Update Set**, then click **Commit Update Set**.
