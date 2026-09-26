@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/30f270fd-9658-458f-8e08-48bde0914f5c
 
 ## 📁 Repository Contents
 
-* **`sys_remote_update_set.xml`**: Exported ServiceNow Update Set containing all schema configurations, choice fields, and Flow Designer logic.
+* **`sys_remote_update_set(NM5).xml`**: Exported ServiceNow Update Set containing all schema configurations, choice fields, and Flow Designer logic.
 * **`Auto_Ticket_Classification_using_Flow_Designer.pdf`**: Complete technical design documentation and requirement checklist.
 * **`media/`**: Demo video and visual assets.
 
